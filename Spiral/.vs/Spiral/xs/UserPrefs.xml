@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{36E6996B-4CFD-5A34-9B52-BCFCB1595B4E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/Spiral.cs">
+    <Files>
+      <File FileName="Assets/ChiselController.cs" Line="54" Column="14" />
+      <File FileName="Assets/GameManager.cs" Line="14" Column="6" />
+      <File FileName="Assets/Assets/Scripts/Spiral.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spiral" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Utils" expanded="True" />
+                  <Node name="Spiral.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1978a2b4-3630-497b-acd9-eb6b1c9222ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
